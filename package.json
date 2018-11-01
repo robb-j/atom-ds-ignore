@@ -1,7 +1,7 @@
 {
   "name": "ds-ignore",
   "main": "./lib/atom-ds-ignore",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hide those pesky .DS_Store files from the Tree View, ignorance is bliss ... right?",
   "keywords": [],
   "scripts": {
