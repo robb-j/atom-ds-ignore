@@ -6,7 +6,7 @@
   "keywords": [],
   "scripts": {
     "lint": "eslint .",
-    "prettier": "prettier --write ./**/*.{js,ts,json,css,md}"
+    "prettier": "prettier --write ./**/*.{js,ts,json,css,less,md}"
   },
   "repository": "https://github.com/robb-j/atom-ds-ignore",
   "license": "MIT",
